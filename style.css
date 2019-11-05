@@ -1,0 +1,17 @@
+body{
+    background-color: #fafafa;
+}
+.container {
+    height: 100vh;
+    vertical-align: center;
+}
+
+.row {
+    height: 100vh;
+}
+
+.caixa-form{
+    background: white;
+    margin: auto; 
+}
+
